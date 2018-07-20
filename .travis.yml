@@ -1,3 +1,6 @@
+notifications:
+  webhooks: http://4a71cd39.ngrok.io/intake/webhook/travis_ci?api_key=zfbqu14fsp54d22652njdspznx0djdlg
+
 sudo: required
 
 services:
